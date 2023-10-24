@@ -18,6 +18,10 @@ A React-based flashcard application that empowers you to take control of your le
 
 We welcome contributions! If you have ideas for new features, find a bug, or want to improve the documentation, feel free to contribute. Check out our [contribution guidelines](CONTRIBUTING.md) for more information.
 
+## Site URL
+
+https://candid-lokum-6f332d.netlify.app
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
