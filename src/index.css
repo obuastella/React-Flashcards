@@ -29,8 +29,15 @@ body {
   text-align: center;
   padding: 20px;
   cursor: pointer;
+  width: 200px;
+  height: 200px;
 }
-
+@media (min-width: 800px) {
+  .flashcards div {
+    width: auto;
+    height: auto;
+  }
+}
 div.selected {
   border: 1px solid #e03131;
   background-color: #e03131;
