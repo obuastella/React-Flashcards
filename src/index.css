@@ -18,6 +18,11 @@ body {
     grid-template-columns: 1fr 1fr;
   }
 }
+@media (max-width: 400px) {
+  .flashcards {
+    grid-template-columns: 1fr;
+  }
+}
 .flashcards div {
   border: 1px solid #e7e7e7;
   background-color: #f7f7f7;
